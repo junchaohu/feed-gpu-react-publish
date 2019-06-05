@@ -4,28 +4,28 @@ self.__precacheManifest = [
     "url": "/static/js/7.068030bf.chunk.js"
   },
   {
-    "revision": "654e9f38fc3657873b45",
+    "revision": "69809874639ec46e1db5",
     "url": "/static/css/main.861c0871.chunk.css"
   },
   {
-    "revision": "074cc3979b6dfb0aae6b",
-    "url": "/static/js/runtime~main.936d573f.js"
+    "revision": "31ad82b88e4a18e5a640",
+    "url": "/static/js/runtime~main.8015844f.js"
   },
   {
     "revision": "6c60c3d52b66a0d0c45be694284cbf55",
     "url": "/static/media/LOGO_dashboard.6c60c3d5.png"
   },
   {
-    "revision": "8d7f98dbb982910bcdd2",
-    "url": "/static/js/2.1fa0cd85.chunk.js"
+    "revision": "5245428ee0d62922fcb6",
+    "url": "/static/js/2.1ae52bba.chunk.js"
   },
   {
     "revision": "ab275d232a83a04b3e29",
     "url": "/static/js/3.4a8cad38.chunk.js"
   },
   {
-    "revision": "a471ddc06021cb84b610",
-    "url": "/static/js/4.9aba416c.chunk.js"
+    "revision": "7f9c822fa75edf2c79ca",
+    "url": "/static/js/4.7ba27ca0.chunk.js"
   },
   {
     "revision": "24eb672d37fba49c15a3",
@@ -36,16 +36,16 @@ self.__precacheManifest = [
     "url": "/static/js/6.b9b445e5.chunk.js"
   },
   {
-    "revision": "654e9f38fc3657873b45",
-    "url": "/static/js/main.9c1d5f91.chunk.js"
-  },
-  {
-    "revision": "f4769f9bdb7466be65088239c12046d1",
-    "url": "/static/media/glyphicons-halflings-regular.f4769f9b.eot"
+    "revision": "69809874639ec46e1db5",
+    "url": "/static/js/main.7c8a8b6f.chunk.js"
   },
   {
     "revision": "448c34a56d699c29117adc64c43affeb",
     "url": "/static/media/glyphicons-halflings-regular.448c34a5.woff2"
+  },
+  {
+    "revision": "f4769f9bdb7466be65088239c12046d1",
+    "url": "/static/media/glyphicons-halflings-regular.f4769f9b.eot"
   },
   {
     "revision": "fa2772327f55d8198301fdb8bcfc8158",
@@ -64,11 +64,11 @@ self.__precacheManifest = [
     "url": "/static/media/dashboard-bg.c4c44103.jpg"
   },
   {
-    "revision": "8d7f98dbb982910bcdd2",
+    "revision": "5245428ee0d62922fcb6",
     "url": "/static/css/2.609fead2.chunk.css"
   },
   {
-    "revision": "59ad738d802fcbb56ef993f1a7b7d68b",
+    "revision": "f2cca929539eabec257037b7c67e47f9",
     "url": "/index.html"
   }
 ];
